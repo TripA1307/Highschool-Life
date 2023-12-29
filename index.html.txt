@@ -1,0 +1,48 @@
+<!DOCTYPE.html>
+<head><title>Highschool Life</title></head>
+<body style="background-color:powderblue;">
+<header>
+<style>
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<a href="highschool.html">
+<img src="10LOVE.jpg" title="Thank you for opening this:>" width="400" height="300">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding"5">
+<tr>
+<td><a href="Beginning.html">Beginning</a></td>
+<td><a href="Zeillah.html">Zeillah</a></td>
+<td><a href="Aleyah.html">Aleyah</a></td>
+<td><a href="Beulah.html">Beulah<a/></td>
+<td><a href="Johannah.html">Johannah</a></td>
+<td><a href="Vhiela.html">Vhiela</a></td>
+<td><a href="Jhulia.html">Jhulia<a/></td>
+<td><a href="Heather.html">Heather</a></td>
+<td><a href="Caryl.html">Caryl</a></td>
+<td><a href="Jankelly.html">Jankelly</a></td>
+<td><a href="Special Mentions">Special Mentions</a></td>
+</tr>
+</table>
+</nav>
+<h2>Welcome to my highschool life!</h2>
+
+<p>
+Adventures full of chaos, excitement, thrill, and love :>
+</p>
+<img src="my circle.jpg" width="20%" height="35%">
+<p>2023 was definitely not what i had expected for sure, but it definitely is one of the best years i've had</p>
+<p>To start off, I purposely made this website to actually just thank my friends because,
+I don't know how to express how much I care or how much I love them so, :>> hi guys HAHAHAHA</p>
+</body>

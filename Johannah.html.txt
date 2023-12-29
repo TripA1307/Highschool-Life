@@ -1,0 +1,48 @@
+<!DOCTYPE.html>
+<head><title>HI JOHANNAH!!</title></head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<body style="background-color:D879C9;">
+<header>
+<style>
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<a href="highschool.html">
+<img src="nicole.jpg" title="Thank you for opening this:>" width="230" height="230">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding"5">
+<tr>
+<td><a href="highschool.html">Beginning</a></td>
+<td><a href="zeizei.html">Zeillah</a></td>
+<td><a href="leyah.html">Aleyah</a></td>
+<td><a href="Tsparkles.html">Beulah<a/></td>
+<td><a href="Nicole.html">Johannah</a></td>
+<td><a href="ela.html">Vhiela</a></td>
+<td><a href="jolya.html">Jhulia<a/></td>
+<td><a href="riri.html">Heather</a></td>
+<td><a href="Carlos.html">Caryl</a></td>
+<td><a href="kelly.html">Jankelly</a></td>
+<td><a href="Smentions.html">Special Mentions</a></td>
+</tr>
+</nav>
+</table>
+<h2>A very quiet friend who is a big swiftie</h2>
+<p>She is definitely a very nice person, mabait, and also pretty smart too</p>
+<p>Had some talks with her aswell and I can say with proof, she is a really great person !! </p>
+<p>I hope you won't let your negative thoughts win and always know that we're here even if we aren't alwways the people u want to talk to</p>
+<p>I thank you for being always so generous and kind to me even if I'm somewhat annoying sometimes HAHAHAHA</p>
+<p>i wish u happiness, safety, health, and wealth byebye :DD</p>
+
+</body>

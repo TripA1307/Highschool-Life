@@ -1,0 +1,62 @@
+<!DOCTYPE.html>
+<head><title>hello po</title></head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<body style="background-color:F1D5AA;">
+<header>
+<style>
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<a href="highschool.html">
+<img src="luv.jpg" title="Thank you for opening this:>" width="300" height="230">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding"5">
+<tr>
+<td><a href="highschool.html">Beginning</a></td>
+<td><a href="zeizei.html">Zeillah</a></td>
+<td><a href="leyah.html">Aleyah</a></td>
+<td><a href="Tsparkles.html">Beulah<a/></td>
+<td><a href="Nicole.html">Johannah</a></td>
+<td><a href="ela.html">Vhiela</a></td>
+<td><a href="jolya.html">Jhulia<a/></td>
+<td><a href="riri.html">Heather</a></td>
+<td><a href="Carlos.html">Caryl</a></td>
+<td><a href="kelly.html">Jankelly</a></td>
+<td><a href="Smentions.html">Special Mentions</a></td>
+</tr>
+</nav>
+</table>
+<img src="pia.jpg" width="150" height"45">
+<h2>Sophia</h2>
+<p>Nakahanap ka na ng para sayo, congrats HAHAHA</p>
+<p>thank you for being there for me nung head over heels era ko at sa mc memories</p>
+
+<h2>Ashley</h2>
+<p>Hi bading, thank you for being one of the first friends i had in bearer :))</p>
+<p>One of the nicest people i've met, wish you health and wealth bye :P</p>
+
+<h2>Jade</h2>
+<p>Bro is the definition of cute and wholesome(hindi siya innocent)</p>
+<p>thank you sa chika, stay jeda, stay slayin'</p>
+
+<h2>Mayumi</h2>
+<p>Thank you sa bading talks at chika</p>
+<p>Stay bading, live long and prosper with ur gf, bye ingat</p>
+
+<img src="peeps.jpg" width="300" height="230">
+<h2>People i got close in saudi</h2>
+<p>I miss most of you guys, I really thank you for being part of my journey :)</p>
+<p>I still wish for everyone for the best :) thank you</p>
+</body>

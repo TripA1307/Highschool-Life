@@ -1,0 +1,49 @@
+<!DOCTYPE.html>
+<head><title>HI ALEYAH BABES!</title></head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<body style="background-color:FFE1BA;">
+<header>
+<style>
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<a href="highschool.html">
+<img src="leyah.jpg" title="Thank you for opening this:>" width="300" height="230">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding"5">
+<tr>
+<td><a href="highschool.html">Beginning</a></td>
+<td><a href="zeizei.html">Zeillah</a></td>
+<td><a href="leyah.html">Aleyah</a></td>
+<td><a href="Tsparkles.html">Beulah<a/></td>
+<td><a href="Nicole.html">Johannah</a></td>
+<td><a href="ela.html">Vhiela</a></td>
+<td><a href="jolya.html">Jhulia<a/></td>
+<td><a href="riri.html">Heather</a></td>
+<td><a href="Carlos.html">Caryl</a></td>
+<td><a href="kelly.html">Jankelly</a></td>
+<td><a href="Smentions.html">Special Mentions</a></td>
+</tr>
+</nav>
+</table>
+<h2>To my anakshie, aleyah babes :)</h2>
+<p>I got to talk to this person first in discord HAHAHAHA and i kept forgetting who she is /sob i'm so sorry HAHAHAHA</p>
+<p>anyways, sana mag tagal kayo ni ano ay, HAHAHAHAHA, INTAYIN NIYO AKO MAGKARON AH</p>
+<p>I think, for me, eventually your parents have to accept u and yes, becos they have no choice and i said so BHWHAHAHAHAHA >B))</p>
+<p>I thank you for the presence, company, and advices you have given me :></p>
+<p>To more weird deep random conversations !</p>
+<p>stay love sick, stay mabait, stay healthy, byebye mwah HAHAHAHHA</p>
+
+</body>
